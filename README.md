@@ -12,6 +12,8 @@ The other users can like and comment on the wall posts.
 ## Demo
 
 Demo Images
+
+
 ![social1-removebg-preview](https://github.com/Vedant-20/social_wall/assets/91717779/863fded8-a038-4939-9231-3937c7bf0838)
 ![social2-removebg-preview](https://github.com/Vedant-20/social_wall/assets/91717779/af234925-c7cf-45ff-a151-741149cd8c10)
 ![social3-removebg-preview](https://github.com/Vedant-20/social_wall/assets/91717779/bd6675e3-465a-4e4f-8226-012acc23842d)
